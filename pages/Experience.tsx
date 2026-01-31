@@ -6,14 +6,14 @@ const Experience: React.FC = () => {
   return (
     <div className="p-8 md:p-16 animate-in fade-in slide-in-from-bottom-4 duration-500">
       <div className="max-w-4xl mb-20 space-y-4">
-        <p className="mono text-xs font-black text-orange-600 tracking-[0.2em] uppercase underline underline-offset-8 decoration-2">
-          Career Timeline
-        </p>
+        <p className="mono text-[10px] md:text-xs font-black text-blue-600 tracking-[0.2em] uppercase underline underline-offset-4 decoration-1">
+              Career & Education
+            </p>
         <h1 className="text-6xl md:text-8xl font-black tracking-tighter text-black leading-none uppercase">
           Experience
         </h1>
         <p className="text-xl text-slate-500 font-bold max-w-2xl leading-relaxed">
-          A record of my professional roles and contributions in the cybersecurity and industrial infrastructure sectors.
+          A record of my study and work in cybersecurity
         </p>
       </div>
 
